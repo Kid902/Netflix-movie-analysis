@@ -104,6 +104,7 @@ genre per row for each movie
 
 Now that our dataset is clean and tidy, we are left with a total of 6 columns and 25551
 rows to dig into during our analysis
+
 ![9](https://github.com/user-attachments/assets/4a0b8cb2-4269-4a6b-a69d-6e57b5ddceaf)
 
 
