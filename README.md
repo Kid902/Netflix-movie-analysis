@@ -73,6 +73,7 @@ date time and to extract only the year value
 1.Data Transformation
 
 By changing the Year data type form object into Integer
+
 ![5](https://github.com/user-attachments/assets/22a5b915-0931-438f-997f-1502fd37d357)
 
 
