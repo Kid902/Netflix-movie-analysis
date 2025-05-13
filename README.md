@@ -2,7 +2,7 @@
 # Netflix Movie Analysis
 ![Netflix_Logo_RGB](https://github.com/user-attachments/assets/8af6d32b-7027-44a6-ba0b-38021fb8468b)
 
-Project Overview
+# Project Overview
 
 • Netflix is a global streaming platform offering a wide range of content
 
