@@ -21,7 +21,7 @@ content is most common and popularA brief description of what this project does 
   
   2.Identify the genres of higest popular movies.
 
-  3.Identify the gener of lowest popular movies.
+  3.Identify the genre of lowest popular movies.
 
   4.Discover yearly trends in content addition.
 
@@ -72,7 +72,7 @@ date time and to extract only the year value
 
 1.Data Transformation
 
-By changing the Year data type form object into Integer
+By changing the Release Date data type form object into Integer
 
 ![5](https://github.com/user-attachments/assets/22a5b915-0931-438f-997f-1502fd37d357)
 
