@@ -107,20 +107,66 @@ rows to dig into during our analysis
 
 ![9](https://github.com/user-attachments/assets/4a0b8cb2-4269-4a6b-a69d-6e57b5ddceaf)
 
-## Insights
-1.Drama genre is the most frequent genre in our dataset and has appeared more than
-14% of the times among 19 other genres.
 
-2.we have 25.5% of our dataset with popular vote (6520 rows). Drama again gets the
-highest popularity among fans by being having more than 18.5% of movies popularities.
+# Data Visualization
 
-3.Spider-Man: No Way Home has the highest popularity rate in our dataset and it has
-genres of Action , Adventure and Sience Fiction .
+  1.Identify top genres and their popularity
+  
+   ![V 1](https://github.com/user-attachments/assets/b416708d-71d8-48f8-8eec-8a29ffe696a1)
 
-4.The united states, thread' has the highest lowest rate in our dataset
-and it has genres of music , drama ,'war','sci-fi' and history`.
 
-5.year 2020 has the highest filmming rate in our dataset.
+
+
+
+
+
+
+
+
+2.genres which has highest votes and lowest voted by visualizing vote_destribution
+
+![V 2](https://github.com/user-attachments/assets/c042a03f-4be7-48c1-bbb2-45e6ff4a3435)
+
+
+
+
+
+
+
+
+
+
+3.yearly trens in content addition
+
+![V 3](https://github.com/user-attachments/assets/19e83685-c180-43a2-b206-7e7189e48777)
+
+
+## FAQ
+
+#### Question 1. What is the most frequent genre in the dataset?
+
+Answer- Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times among 19 other genres.
+
+#### Question 2.What genres has highest votes ?
+
+Answer- we have 25.5% of our dataset with popular vote (6520 rows). Drama again gets the highest popularity among fans by being having more than 18.5% of movies popularities.
+
+
+#### Question 3.What movie got the highest popularity ? what's its genre ?
+
+Answer- Spider-Man: No Way Home has the highest popularity rate in our dataset and it has genres of Action , Adventure and Science Fiction .
+
+
+#### Question 4.What movie got the lowest popularity ? what's its genre ?
+
+Answer-The united states, thread' has the highest lowest rate in our dataset and it has genres of music , drama , 'war', 'sci-fi' and history.
+
+
+#### Question 5. Which year has the most filmmed movies?
+
+Answer- year 2020 has the highest filmming rate in our dataset.
+
+
 
 
 
