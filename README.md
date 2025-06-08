@@ -148,7 +148,7 @@ rows to dig into during our analysis
 
 
 ## Dashboard (video reference) 
- ||https://youtu.be/7ppIWXAQo6g||
+ | https://youtu.be/7ppIWXAQo6g |
 
 
 
