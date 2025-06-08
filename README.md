@@ -141,6 +141,14 @@ rows to dig into during our analysis
 ![V 3](https://github.com/user-attachments/assets/19e83685-c180-43a2-b206-7e7189e48777)
 
 
+
+## Dashboard (by Power BI)
+
+![MyDashBord](https://github.com/user-attachments/assets/4f482c79-58a6-4ced-b894-6540bfffe5bd)
+
+
+
+
 ## FAQ
 
 #### Question 1. What is the most frequent genre in the dataset?
